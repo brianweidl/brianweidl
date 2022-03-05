@@ -1,5 +1,5 @@
 ### Hi  I'm Brian
-#### Argentinian Developer
+#### Full  Stack developer from Argentina
 ![Argentinian Developer](https://miro.medium.com/max/1400/0*oQC-LfGFPNCipc8j)
 
 Welcome to my github! Here you can see some projects I've worked on
