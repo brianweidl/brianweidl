@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi  I'm Brian
+#### Argentinian Developer
+![Argentinian Developer](https://miro.medium.com/max/1400/0*oQC-LfGFPNCipc8j)
 
-<!--
-**brianweidl/brianweidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github! Here you can see some projects I've worked on
 
-Here are some ideas to get you started:
+Skills: JS / REACT / NODE / PostgreSQL HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brianweidl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/brianweidl//)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brianweidl&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/brianweidl)  
+
+![Profile views](https://gpvc.arturio.dev/brianweidl)  
