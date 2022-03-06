@@ -1,10 +1,11 @@
-### Hi  I'm Brian
-#### Full  Stack developer from Argentina
+### Hi  I'm Brian! 👋
+
+#### Full  Stack Developer from Argentina 🚀
 ![Argentinian Developer](https://repository-images.githubusercontent.com/248812720/56902700-c5bd-11ea-813f-ed8631377258)
 
 Welcome to my github! Here you can see some projects I've worked on
 
-Skills: JS / REACT / NODE / PostgreSQL HTML / CSS
+
 
 
 
