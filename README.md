@@ -38,5 +38,5 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brianweidl&show_icons=true)  
+
 
