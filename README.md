@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/brianweidl/brianweidl/blob/main/githubBanner.png"/>
+<img src="https://github.com/brianweidl/brianweidl/blob/main/githubBanner.png" width="900"/>
 
 
 ### Welcome to my github! <img src="https://github.com/brianweidl/brianweidl/blob/main/wave.gif" height="25" width="25"/>
