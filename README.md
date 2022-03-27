@@ -3,7 +3,7 @@
 <img src="https://github.com/brianweidl/brianweidl/blob/main/githubBanner.png" width="900"/>
 
 
-### Welcome to my github! <img src="https://github.com/brianweidl/brianweidl/blob/main/wave.gif" height="25" width="25"/>
+### Welcome to my GitHub! <img src="https://github.com/brianweidl/brianweidl/blob/main/wave.gif" height="25" width="25"/>
 
 
 Here you can see some projects I've worked on!
