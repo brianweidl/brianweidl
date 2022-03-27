@@ -2,6 +2,8 @@
 
 #### Full  Stack Developer from Argentina 🚀
 
+<img src="https://github.com/brianweidl/brianweidl/blob/main/githubBanner.png"/>
+
 
 
 Welcome to my github! Here you can see some projects I've worked on!
