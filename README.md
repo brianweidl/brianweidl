@@ -3,10 +3,10 @@
 <img src="https://github.com/brianweidl/brianweidl/blob/main/githubBanner.png"/>
 
 
-### Welcome! <img src="https://github.com/brianweidl/brianweidl/blob/main/wave.gif" height="25" width="25"/>
+### Welcome to my github! <img src="https://github.com/brianweidl/brianweidl/blob/main/wave.gif" height="25" width="25"/>
 
 
-Welcome to my github! Here you can see some projects I've worked on!
+Here you can see some projects I've worked on!
 
 ## 🔧 Skills and Technologies
 
@@ -21,8 +21,6 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-
 
 
 </p>
