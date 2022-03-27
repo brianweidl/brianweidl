@@ -1,8 +1,9 @@
-### Hi  I'm Brian! <img src="https://github.com/brianweidl/brianweidl/blob/main/wave.gif" height="25" width="25"/>
 
 
 <img src="https://github.com/brianweidl/brianweidl/blob/main/githubBanner.png"/>
 
+
+### Welcome! <img src="https://github.com/brianweidl/brianweidl/blob/main/wave.gif" height="25" width="25"/>
 
 
 Welcome to my github! Here you can see some projects I've worked on!
