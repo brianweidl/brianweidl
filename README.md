@@ -1,6 +1,5 @@
 ### Hi  I'm Brian! <img src="https://github.com/brianweidl/brianweidl/blob/main/wave.gif" height="25" width="25"/>
 
-#### Full  Stack Developer from Argentina 🚀
 
 <img src="https://github.com/brianweidl/brianweidl/blob/main/githubBanner.png"/>
 
