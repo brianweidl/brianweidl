@@ -1,9 +1,10 @@
 
 
-<img src="https://github.com/brianweidl/brianweidl/blob/main/githubbannerheader.png" width="900"/>
+<img src="./githubbanner1.png" width="900"/>
 
 
-### Welcome to my GitHub! <img src="https://github.com/brianweidl/brianweidl/blob/main/wave.gif" height="25" width="25"/>
+
+### Welcome to my GitHub! <img src="./wave.gif" height="25" width="25"/>
 
 
 Here you can see some projects I've worked on!
