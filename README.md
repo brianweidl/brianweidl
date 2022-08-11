@@ -1,13 +1,13 @@
 
 
-<img src="./githubbanner1.png" width="900"/>
+
 
 
 
 ### Welcome to my GitHub! <img src="./wave.gif" height="25" width="25"/>
 
 
-Here you can see some projects I've worked on!
+
 
 ## 🔧 Skills and Technologies
 
