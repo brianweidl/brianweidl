@@ -2,7 +2,7 @@
 
 
 
-
+<img src="./headerGithub.gif">
 
 ### Welcome to my GitHub! <img src="./wave.gif" height="25" width="25"/>
 
