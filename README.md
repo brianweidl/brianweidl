@@ -2,7 +2,7 @@
 
 
 
-<img src="./GitHubBanner.gif">
+<img src="./GithubBanner.gif">
 
 ### Welcome to my GitHub! <img src="./wave.gif" height="25" width="25"/> Here you can see some of the projects I've worked on!
 
