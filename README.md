@@ -6,7 +6,7 @@
 
 ### Welcome to my GitHub! <img src="./wave.gif" height="25" width="25"/> Here you can see some of the projects I've worked on!
 
-
+<br>
 
 
 ## 🔧 Skills and Technologies
@@ -31,17 +31,20 @@
 
 
 </p>
+<br>
+
+
 
 ## 📈 Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brianweidl&show_icons=true&theme=transparent)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brianweidl&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianweidl&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianweidl)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
 
 
-
+<br>
 
 
 
